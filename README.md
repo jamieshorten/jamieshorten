@@ -1,4 +1,4 @@
-# Hi I'm James (He/Him 🏳️‍🌈)
+# Hi I'm Jamie (The/Them 🏳️‍🌈)
 
 I'm an exported South African 🇿🇦. You might find me travelling somewhere but I spend most
 of my time in Dublin 🇮🇪.
@@ -7,7 +7,7 @@ of my time in Dublin 🇮🇪.
 
 ###  💼  Work:
 
-I'm a Senior Software Engineer at Spencer Stuart International. I do full stack
+I'm a Software Developer at Spencer Stuart International. I do full stack
 development, mostly with Microsoft's tools (C#, SQL Server, etc.)
 
 ### 🎲 Fun:
@@ -20,19 +20,3 @@ and Dragons.
 ## 📫  How to reach me:
 - [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
 - [www.jamesshorten.com](www.jamesshorten.com)
-
-<!--
-**jamesshorten/jamesshorten** is a ✨ _special_ ✨ repository because its `README.md` 
-(this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
