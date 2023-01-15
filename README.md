@@ -18,5 +18,5 @@ and Dragons.
 ## 🆕 Latest:
 
 ## 📫  How to reach me:
-- [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
-- [www.jamesshorten.com](www.jamieshorten.com)
+- [LinkedIn: www.linkedin.com/in/jamieshorten/](https://www.linkedin.com/in/jamieshorten/)
+- [www.jamieshorten.com](www.jamieshorten.com)
