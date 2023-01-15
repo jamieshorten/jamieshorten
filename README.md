@@ -19,4 +19,4 @@ and Dragons.
 
 ## 📫  How to reach me:
 - [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
-- [www.jamesshorten.com](www.jamesshorten.com)
+- [www.jamesshorten.com](www.jamieshorten.com)
