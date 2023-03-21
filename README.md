@@ -19,4 +19,4 @@ and Dragons.
 
 ## 📫  How to reach me:
 - [LinkedIn: www.linkedin.com/in/jamieshorten/](https://www.linkedin.com/in/jamieshorten/)
-- [www.jamieshorten.com](www.jamieshorten.com)
+- [www.jamieshorten.com](https://www.jamieshorten.com)
