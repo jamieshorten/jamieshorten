@@ -7,8 +7,7 @@ of my time in Dublin 🇮🇪.
 
 ###  💼  Work:
 
-I'm a Software Developer at Spencer Stuart International. I do full stack
-development, mostly with Microsoft's tools (C#, SQL Server, etc.)
+Lead Software Engineer at DocuSign
 
 ### 🎲 Fun:
 
