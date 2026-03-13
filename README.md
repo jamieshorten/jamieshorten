@@ -7,12 +7,14 @@ of my time in Dublin 🇮🇪.
 
 ###  💼  Work:
 
-Lead Software Engineer at DocuSign
+Engineering Manager at Docusign
+Maintainer for @accordproject
 
 ### 🎲 Fun:
 
-I like to play around with mobile development (Swift, SwiftUI), I play a lot of Dungeons
-and Dragons.
+I play a lot of Dungeons and Dragons.
+Photography
+Homelab and Selfhosting
 
 ## 🆕 Latest:
 
