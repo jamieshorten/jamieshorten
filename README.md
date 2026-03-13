@@ -12,9 +12,9 @@ Maintainer for @accordproject
 
 ### 🎲 Fun:
 
-I play a lot of Dungeons and Dragons.
-Photography
-Homelab and Selfhosting
+- I play a lot of Dungeons and Dragons.
+- Photography
+- Homelab and Selfhosting
 
 ## 🆕 Latest:
 
