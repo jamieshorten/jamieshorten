@@ -7,8 +7,8 @@ of my time in Dublin 🇮🇪.
 
 ###  💼  Work:
 
-Engineering Manager at Docusign
-Maintainer for @accordproject
+- Engineering Manager at Docusign
+- Maintainer for @accordproject
 
 ### 🎲 Fun:
 
