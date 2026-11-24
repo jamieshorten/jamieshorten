@@ -7,7 +7,7 @@ of my time in Dublin 🇮🇪.
 
 ###  💼  Work:
 
-- Engineering Manager at Docusign
+- Development Manager at Clio
 - Maintainer for @accordproject
 
 ### 🎲 Fun:
