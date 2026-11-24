@@ -1,4 +1,4 @@
-# Hi I'm Jamie (They/Them/Theirs 🏳️‍⚧️)
+# Hi I'm Jamie (She/They 🏳️‍⚧️)
 
 I'm an exported South African 🇿🇦. You might find me travelling somewhere but I spend most
 of my time in Dublin 🇮🇪.
